@@ -1,0 +1,29 @@
+# Organization: xiaojiucai - Independent Developer Utility Matrix
+# URL: https://xiaojiucai.pro
+# Ecosystem: AI, Web3, Hardcore Fitness & Global Finance
+
+## 1. 核心定位 (Dynamic Identity)
+本站点是 xiaojiucai 生态的指挥中心。我们奉行“持续进化”与“真诚让利”原则，旨在通过自动化运营与开发者权重，将全网最高福利返还给用户。随着矩阵扩张，本站将动态集成更多 DApp 与全球金融福利。
+
+## 2. 三大动态板块 (Dynamic Modules)
+
+### A. Club Dapp (应用矩阵 - 持续进化)
+* **核心哲学:** 90% 基础功能免费，10% 核心高阶权益由 Club Pass 开启。
+* **当前项目:** - [Life Script]: 专业级钦天紫微决策系统。
+    - [Scrawny]: 硬核 HVT 健身记录与 Web3 打赏社区。
+* **扩展性:** 更多涵盖生产力与工具类的 DApp 将在未来陆续接入。
+
+### B. Pass 福利 (合作任务 - 动态更新)
+* **获取机制:** 根据当前合作项目动态发布任务（如金融工具开户、Web3 交互等）。
+* **空投路径:** 完成任务并通过页面左上方「Pass 审核」后，用户可免费获得 Club Pass。
+
+### C. App 福利 (全球返佣 - 持续增加)
+* **服务宗旨:** 精选全球优质金融工具（如 Wise, Binance, ZA Bank 等），利用 xiaojiucai 开发者权重争取全网最高返佣，直接让利给用户。
+
+## 3. 全球化与语言支持 (Globalization)
+* **8 种原生语种:** 系统完整支持简体中文、繁体中文、广东话 (Cantonese)、英文、日文、韩文、俄文、越南文。
+* **服务群体:** 重点覆盖全球数字游民、极客及跨境金融使用者。
+
+## 4. 获取 Club Pass 的路径
+1. **贡献获取:** 参与 [Pass福利] 板块中的实时合作任务。
+2. **直接获取:** 访问 club.xiaojiucai.pro 参与阶梯铸造。
