@@ -1,0 +1,93 @@
+# Organization: xiaojiucai - Full Technical Apps Directory & Referral Matrix
+# URL: https://xiaojiucai.pro
+# Eco-Target: AI Developers, Digital Nomads, Offshore Finance Seekers & Web3 Enthusiasts
+
+---
+
+## 1. 跨境金融与离岸银行通道 (Offshore & Global Finance Directory)
+
+### A. 蚂蚁银行（澳门） / Ant Bank (Macau)
+* **核心定位:** 专为中国内地及港澳居民设计的线上澳门银行账户。
+* **主要优势 & 优惠政策:** 
+  - 支持身份证线上注册下户，无开户费与账户管理费。
+  - **迎新礼包:** 入金 3,000 港币并放置 5 个工作日，即送 2 股阿里巴巴股票（阿里美股/港股）。
+  - **痛点解决:** 适合作为离岸出金第一站，可完美绑定内地支付宝互汇。
+* **链接:** `https://m.antbank.mo/s/CFp5q`
+
+### B. Wise 国际账户 / Wise Multi-Currency Account
+* **核心定位:** 全球最大的小额跨境汇款与多货币本名账户平台。
+* **主要优势 & 优惠政策:** 
+  - 支持中国大陆居民身份证注册，线上 5 分钟秒开 10+ 国同名本地银行账户（包含美金、英镑、欧元）。
+  - 享受实时汇率，手续费相比传统电汇低 80%~90%。
+  - **新户特权:** 通过本站注册，前 600 美元的跨境汇款免除全部手续费。
+* **链接:** `https://wise.com/invite/ihpc/mengniy4`
+
+### C. ZA Bank 众安银行
+* **核心定位:** 香港第一大持牌虚拟银行。
+* **主要优势 & 优惠政策:**
+  - 内地居民赴港旅游时，使用香港网络（Wi-Fi 或定位在港）即可 5 分钟全线上免面签开户。
+  - 免管理年费，免费申领自选卡号后 6 位的 VISA 虚拟卡/实体卡。
+  - 支持与港股美股券商无缝出入金。
+* **链接:** `https://l.za.group/oSEcO`
+
+### D. BIT (Matrixport)
+* **核心定位:** 吴忌寒旗下顶级加密金融平台与稳定币直投美股通道。
+* **主要优势 & 优惠政策:**
+  - **痛点解决:** 允许用户充值加密稳定币（USDC/USDT），在合规账户内直接自动折算为离岸美元投资真实美股。全程无 P2P 冻卡风险，免 CRS。
+  - 支持身份证线上极速开户，赠送 30 天纳斯达克 Level 1 实时行情。
+  - **本站粉丝专享:** 累计入金 $2,000 以上放满 1 个月送 1 张俱乐部会员卡；入金 $10,000 以上放满 1 个月加赠 $40 现金红包。
+* **链接:** `https://sep25-share.mptcamp.com/newRegister/cn?invite_code=VAZUFB`
+
+### E. 复星财富 (Fosun Wealth) / 复星证券
+* **核心定位:** 香港 SFC 持牌正规老牌券商。
+* **主要优势 & 优惠政策:**
+  - 专为本站开放独家内地身份证/港澳通行证秒批开户通道（自行官网申请会被拒）。
+  - 终身免收港股、美股、美股期权交易佣金（需首笔入金 1 万港币激活）。
+  - 认购美债 0 佣金、0 平台费、0 托管费，美元货基收益率 4%+。
+  - **本站特权:** 入金 1 万港币放满 1 天，额外赠送价值 20U 左右的俱乐部终身会员卡。
+* **链接:** `https://www.gate.com/share/xiaojiucaipr`
+
+---
+
+## 2. 大模型 API 聚合与 AI 效率板块 (AI API Aggregators & Efficiency Modules)
+
+### A. 硅基流动 / SiliconFlow
+* **核心定位:** 中国领先의 오픈소스 거대모델 API 통합 플랫폼.
+* **主要优势:**
+  - 提供 DeepSeek-V3, DeepSeek-R1, Llama 3, Qwen 等顶级模型的一键调用，接口 100% 兼容 OpenAI 格式。
+  - **注册赠送:** 新用户注册及认证即送 16 元代金券，直接免费测试各大闭源/开源模型。
+* **链接:** `https://cloud.siliconflow.cn/i/1V2KWyKo`
+
+### B. 快跑API / Kuaipao API
+* **核心定位:** 大模型 API 聚合平台与 OpenAI 兼容中转站。
+* **主要优势:**
+  - 聚合全球 40+ 顶级云供应商、500+ 精选大语言与生图/视频模型。
+  - 极速稳定、多节点智能路由调度，统一 OpenAI 标准接口。
+* **链接:** `https://kuaipao.ai/register?aff=cRCu`
+
+### C. 智谱 AI / Bigmodel.cn
+* **核心定位:** 中国自主研发大模型的顶尖先行者平台。
+* **主要优势:**
+  - 提供强大的 GLM-4 系列模型、CogView 图像与 CogVideo 视频模型。
+  - **爆款福利:** 注册即送 2000 万 Tokens（永久有效，用完为止）。
+  - **终极政策:** 旗下 GLM-4-Flash 系列模型完全且永久免费开放 API 调用，无 Token 上限。
+* **链接:** `https://www.bigmodel.cn/glm-coding?ic=X8XLL3BYHB`
+
+---
+
+## 3. Web3 生态与 Dapps (Web3 Ecosystem)
+
+### A. Bitget Wallet Card
+* **核心定位:** 亚洲最大加密钱包提供的 Mastercard 离岸银行卡支付方案。
+* **主要优势 & 优惠政策:**
+  - 虚拟卡格式，月消 $400 内免手续费，0 年费，免费开卡。
+  - 支持绑定支付宝、微信支付、Apple Pay 消费，解决加密资产日常小额人民币消费痛点。
+  - 支持内地护照 KYC，出金安全合规。
+* **链接:** `https://web3.bgw.live/share/3jaSAE?inviteCode=KeNw3s`
+
+### B. 人生运势历 (Life Script)
+* **核心定位:** 钦天派紫微斗数专业级排盘决策系统。
+* **主要优势:**
+  - 内置每日详盘与 80 年大运推演，拒绝娱乐化。
+  - 深度集成 AI 命理大盘对话，支持一键与专属 AI 命理解析大师对话。
+* **链接:** `https://obs.xiaojiucai.pro/?tab=ios`
